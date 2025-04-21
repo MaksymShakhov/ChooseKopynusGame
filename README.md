@@ -1,3 +1,3 @@
 # ChooseKopynusGame
-App where you can rank my games
+Site where you can rank my games
 Hope you enjoy it!
